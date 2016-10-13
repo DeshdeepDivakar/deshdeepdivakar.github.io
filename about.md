@@ -8,7 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Seasoned Automation Test Analyst and Professional Scrum Master.
+Demonstrated experience in Test Automation using Selenium within a .Net framework testing environment. Expertise in technical test analysis and system (regression) test automation framework and dedicated to maintaining up-to-date industry and domain knowledge along with IT skills.
 
 ### Contact me
 
