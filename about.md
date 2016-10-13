@@ -11,5 +11,5 @@ Demonstrated experience in Test Automation using Selenium within a .Net framewor
 
 ### Contact me
 
-[email@domain.com](mailto:me@deshdeep.com)
-http://www.deshdeep.com
+[me@deshdeep.com](mailto:me@deshdeep.com)
+[http://www.deshdeep.com](http://www.deshdeep.com)
